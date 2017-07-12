@@ -1,7 +1,8 @@
 class Scrabble
 
-  def score(word)
-    1
+  def score(word, key)
+    point_values.key
+
   end
 
   def point_values
